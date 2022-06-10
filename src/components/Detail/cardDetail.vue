@@ -102,6 +102,7 @@ const calculatedScore = computed(() => {
             <a
               class="text-sky-500 hover:underline"
               :href="props.movieInfo.homepage"
+              target="_"
               >Link</a
             >
           </p>
